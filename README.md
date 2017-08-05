@@ -27,6 +27,15 @@ Decred | Dsj2Pj7rvHYfn4ZQjoKtweNHm8BHxHUSVjK
 Dash | XmpNFn11ScCR7gVZCtJbNzxgsxCSWZfZy3
 Sia | f091ea3d3fdb7fba8359e4b3266a26175e110e8b4cfcdb682c0ad89b87744f483b7f97a5a609
 
+## Kiddo College Fund
+
+Shapeshift Permalink (USD/Coin to Ethereum): [https://goo.gl/Aru3pD](https://goo.gl/Aru3pD)
+
+Coin | Address
+--- | ---
+Ethereum | [0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9](https://etherscan.io/address/0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9)
+Ethereum ERC20 Tokens| [0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9](https://etherscan.io/address/0x29BBE4a7960fef776C9f1a8a2055Aa551D91a1B9)
+
 # Links
 
 View this pages source on GitHub: https://github.com/whardier/whardier

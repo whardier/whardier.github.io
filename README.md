@@ -29,7 +29,7 @@ Sia | f091ea3d3fdb7fba8359e4b3266a26175e110e8b4cfcdb682c0ad89b87744f483b7f97a5a6
 
 ## Kiddo College Fund
 
-Shapeshift Permalink (USD/Coin to Ethereum): [https://goo.gl/Aru3pD](https://goo.gl/Aru3pD)
+Shapeshift Permalink (Any coin to Ethereum): [https://goo.gl/Aru3pD](https://goo.gl/Aru3pD)
 
 Coin | Address
 --- | ---

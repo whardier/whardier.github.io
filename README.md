@@ -10,6 +10,10 @@ I, whardier, accept donations for code I have written at the following addresses
 
 Please be aware of the Gist URL which should show user **whardier** and Gist ID **5ca1c90e55ddde3f3e9a30bb9148167c**, the Gist ID should be part of the original revision.
 
+## Paypal
+
+Paypal.Me Link: https://paypal.me/whardier
+
 ## Coinbase
 
 Email Transfer: spencersr@gmail.com

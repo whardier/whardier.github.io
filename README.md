@@ -8,8 +8,6 @@ Thanks for visiting!
 
 I, whardier, accept donations for code I have written at the following addresses.
 
-Please be aware of the Gist URL which should show user **whardier** and Gist ID **5ca1c90e55ddde3f3e9a30bb9148167c**, the Gist ID should be part of the original revision.
-
 ## Paypal
 
 Paypal.Me Link: https://paypal.me/whardier
@@ -30,6 +28,7 @@ Litecoin | LbwwqKFE9qnm3LjEWCRVHqF4F7Th6sNjYz
 Decred | Dsj2Pj7rvHYfn4ZQjoKtweNHm8BHxHUSVjK
 Dash | XmpNFn11ScCR7gVZCtJbNzxgsxCSWZfZy3
 Sia | f091ea3d3fdb7fba8359e4b3266a26175e110e8b4cfcdb682c0ad89b87744f483b7f97a5a609
+IOTA | RDTBOHPDA9UKJUYMYYIMAFZATUHHFHVYSFOLFWFGBGHQMVBDPG9TJBMDGTAZYQVTOBLQWZUIITXNFXCVAYSGH9GXQA
 
 ## Kiddo College Fund
 

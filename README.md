@@ -21,7 +21,7 @@ Email Transfer: spencersr@gmail.com
 Coin | Address
 --- | ---
 Bitcoin | 1CGkAzqwvCc47316QoyrfDZHNuUNsRCsxj
-Bitcoin Cash | 1CGkAzqwvCc47316QoyrfDZHNuUNsRCsxj
+Bitcoin Cash | 135Jv5StrPfSqZsBD973FvWn46ey42UyJz
 Ethereum | [0xc0FfEEFF79F9C1F2579F0E071b96768c75695fe9](https://etherscan.io/address/0xc0ffeeff79f9c1f2579f0e071b96768c75695fe9)
 Ethereum ERC20 Tokens | [0xc0FfEEFF79F9C1F2579F0E071b96768c75695fe9](https://etherscan.io/address/0xc0ffeeff79f9c1f2579f0e071b96768c75695fe9)
 Litecoin | LbwwqKFE9qnm3LjEWCRVHqF4F7Th6sNjYz

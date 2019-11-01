@@ -21,14 +21,9 @@ Email Transfer: spencersr@gmail.com
 Coin | Address
 --- | ---
 Bitcoin | ```1CGkAzqwvCc47316QoyrfDZHNuUNsRCsxj```
-Bitcoin Cash | ```135Jv5StrPfSqZsBD973FvWn46ey42UyJz```
 Ethereum | [```0xc0FfEEFF79F9C1F2579F0E071b96768c75695fe9```](https://etherscan.io/address/0xc0ffeeff79f9c1f2579f0e071b96768c75695fe9)
 Ethereum ERC20 Tokens | [```0xc0FfEEFF79F9C1F2579F0E071b96768c75695fe9```](https://etherscan.io/address/0xc0ffeeff79f9c1f2579f0e071b96768c75695fe9)
 Litecoin | ```LbwwqKFE9qnm3LjEWCRVHqF4F7Th6sNjYz```
-Decred | ```Dsj2Pj7rvHYfn4ZQjoKtweNHm8BHxHUSVjK```
-Dash | ```XmpNFn11ScCR7gVZCtJbNzxgsxCSWZfZy3```
-Sia | ```f091ea3d3fdb7fba8359e4b3266a26175e110e8b4cfcdb682c0ad89b87744f483b7f97a5a609```
-IOTA | ```RDTBOHPDA9UKJUYMYYIMAFZATUHHFHVYSFOLFWFGBGHQMVBDPG9TJBMDGTAZYQVTOBLQWZUIITXNFXCVAYSGH9GXQA```
 
 ## Kiddo College Fund
 
